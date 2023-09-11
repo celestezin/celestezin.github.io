@@ -1,6 +1,6 @@
 ---
 title: "Celeste Zinmon-Htet"
-#image: "frank.jpg"
+
 links:
   - label: LinkedIn
     url: "https://www.linkedin.com/in/celeste-zinmon-htet-075738180/"
