@@ -1,0 +1,46 @@
+---
+title: "Celeste Zinmon-Htet"
+image: "celeste.jpg"
+links:
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/celeste-zinmon-htet-075738180/"
+  - label: GitHub
+    url: "https://github.com/celestezin"
+  - label: Email
+    url: "czinmon1@jhmi.edu"
+output:
+  postcards::trestles
+---
+ 
+## About Me
+
+My name is Celeste, and I am a second-year MHS student in Epidemiology. I am interested in spatial analysis 
+and in studying environmental exposures. I am familiar with running statistical analyses in R and 
+Stata, mapping in ArcGIS Pro, and managing data through Excel (Power Query), SQL, and RedCap. I 
+have never used Git before! I am excited to gain more fluency in R through this course.
+
+## Education
+
+**Johns Hopkins Bloomberg School of Public Health** | Baltimore, MD
+
+- MHS in Epidemiology | May 2022 - May 2024
+
+**University of Washington** | Seattle, WA
+
+- B.S. in Biology | September 2019 - June 2022
+
+## Five Fun Facts
+
+- I am from Myanmar, and grew up in Hamilton, Ontario, and Seattle, WA.
+- No siblings or pets... I have one cousin though!
+- Baking and playing video games are my favorite hobbies.
+- I started playing Subnautica recently, and have been enjoying it a lot.
+- My favorite thing to bake is mochi banana bread!
+
+## Something Cool?
+
+Here's a [link](https://www.youtube.com/watch?v=lqZsRqOjmMM) to a compilation 
+of music from Breath of the Wild that I listen to pretty often while I work!
+
+
+
